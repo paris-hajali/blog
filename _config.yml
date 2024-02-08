@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Patrick Hajali
-# email: hajalipat@gmail.com
+title: Paris Hajali
+# email: hajaliparis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "patrickhajali.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pathajali
-github_username: patrickhajali
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username: paris-hajali
 
 # Build settings
 theme: minima
@@ -55,11 +55,10 @@ minima:
 
 header_pages: 
   - about.markdown 
-  - research.md
 
 author: 
-    name: "Patrick Hajali"
-    email: hajalipat@gmail.com
+    name: "Paris Hajali Jr."
+    email: hajaliparis@gmail.com
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
